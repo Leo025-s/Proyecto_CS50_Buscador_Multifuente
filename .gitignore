@@ -1,0 +1,26 @@
+# Entornos virtuales
+venv/
+.env/
+
+# Archivos y carpetas generadas automáticamente
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos de salida o resultados
+resultados.pdf
+*.log
+
+# Archivos de configuración de editores
+.vscode/
+.idea/
+
+# Archivos de dependencias o compilación
+*.egg-info/
+build/
+dist/
