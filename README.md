@@ -1,6 +1,6 @@
 # Proyecto Final CS50 Python – Buscador Multifuente
 
-#### Video de demostración: [Haz clic aquí para ver el video] (https://www.youtube.com/watch?v=nN5ij8BHzZo)
+#### Video de demostración: [Haz clic aquí para ver el video](https://www.youtube.com/watch?v=nN5ij8BHzZo)
 
 #### Descripción:
 
