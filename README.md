@@ -1,13 +1,13 @@
 # Proyecto Final CS50 Python – Buscador Multifuente
 
-## Descripción
+#### Video de demostración: [Haz clic aquí para ver el video] (https://www.youtube.com/watch?v=nN5ij8BHzZo)
+
+#### Descripción:
 
 Este proyecto fue desarrollado como parte de la **culminación del curso CS50’s Introduction to Programming with Python**.  
 El programa permite realizar búsquedas académicas en múltiples fuentes, procesar la información obtenida, traducirla (si está en inglés) y exportarla en formato PDF.
 
 Su propósito es facilitar la recopilación y presentación de información académica proveniente de APIs públicas, especificamente; **arXiv**, **OpenAlex** y **Crossref**  mediante un flujo automatizado y reproducible.
-
----
 
 ## Funcionalidades
 
