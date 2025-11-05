@@ -4,10 +4,11 @@
 
 #### Descripción:
 
-Este proyecto fue desarrollado como parte de la **culminación del curso CS50’s Introduction to Programming with Python**.  
-El programa permite realizar búsquedas académicas en múltiples fuentes, procesar la información obtenida, traducirla (si está en inglés) y exportarla en formato PDF.
+Este proyecto fue desarrollado como parte de la culminación del curso CS50’s Introduction to Programming with Python, con el objetivo de aplicar de manera práctica los conocimientos adquiridos a lo largo del curso. El sistema implementa un buscador multifuente capaz de realizar consultas en diversas plataformas académicas en línea, integrando los resultados de manera estructurada y accesible para el usuario.
 
-Su propósito es facilitar la recopilación y presentación de información académica proveniente de APIs públicas, especificamente; **arXiv**, **OpenAlex** y **Crossref**  mediante un flujo automatizado y reproducible.
+El programa permite realizar búsquedas académicas en múltiples fuentes, procesar la información obtenida, traducirla automáticamente al español cuando sea necesario, y finalmente exportar los resultados en formato PDF para su posterior análisis o presentación. Todo el proceso está diseñado para ser reproducible y eficiente, reduciendo el tiempo necesario para recopilar información relevante de distintas bases de datos.
+
+Su propósito principal es facilitar la recopilación, análisis y presentación de información científica proveniente de APIs públicas, específicamente arXiv, OpenAlex y Crossref. A través de un flujo automatizado, el usuario puede realizar búsquedas temáticas, filtrar resultados relevantes y obtener un documento unificado con los datos procesados. Este proyecto busca servir como una herramienta práctica para estudiantes, investigadores y profesionales que deseen optimizar su proceso de revisión bibliográfica.
 
 ## Funcionalidades
 
